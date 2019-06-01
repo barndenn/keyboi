@@ -1,1 +1,2 @@
-# keyboi
+# Keyboi
+Size: ~65%
