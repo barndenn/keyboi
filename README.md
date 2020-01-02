@@ -1,11 +1,11 @@
-# Keyboi
-Size will be approximately a 65%. 
+# MacroPad Concept 
+This is my experimental Macropad to test certain features before scaling up. 
 
 Features Included: 
 - USB Type-C Connector 
-- Bluetooth? 
-- Battery port with reverse polarity protection? 
+- Bluetooth 
+- Battery holder and onboard charging circuit
+- OLED Battery Level Display
+- Volume Knobs
 
-Features Planned: 
-- Volume Sliders/Knobs
-- Reprogrammable with QMK or Arduino 
+
