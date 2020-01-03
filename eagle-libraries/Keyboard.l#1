@@ -35000,10 +35000,10 @@
 <hole x="0" y="-4.5" drill="2.4"/>
 <smd name="MX1" x="7.36" y="2.54" dx="2.55" dy="2.5" layer="1"/>
 <smd name="MX2" x="-6.09" y="5.08" dx="2.55" dy="2.5" layer="1"/>
-<smd name="LED+" x="2.1" y="-3.775" dx="1" dy="0.75" layer="1"/>
-<smd name="R-" x="-2.1" y="-3.775" dx="1" dy="0.75" layer="1"/>
-<smd name="G-" x="-2.1" y="-5.225" dx="1" dy="0.75" layer="1"/>
-<smd name="B-" x="2.1" y="-5.225" dx="1" dy="0.75" layer="1"/>
+<smd name="LED+" x="2.1" y="-3.775" dx="1" dy="0.75" layer="16"/>
+<smd name="R-" x="-2.1" y="-3.775" dx="1" dy="0.75" layer="16"/>
+<smd name="G-" x="-2.1" y="-5.225" dx="1" dy="0.75" layer="16"/>
+<smd name="B-" x="2.1" y="-5.225" dx="1" dy="0.75" layer="16"/>
 <text x="0" y="-7" size="1" layer="21" font="vector" ratio="13" align="center">&gt;NAME</text>
 <text x="0" y="-7" size="1" layer="22" font="vector" ratio="13" rot="MR0" align="center">&gt;NAME</text>
 </package>
